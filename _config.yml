@@ -3,23 +3,20 @@ permalink: pretty
 
 # Setup
 host: localhost
-title: Erik Reinertsen
-url: http://erikreinertsen.com
+title: Andrew Hong
+url: http://ahong080.github.io
 
 author:
-    name: Erik Reinertsen
-    url: http://twitter.com/erikrtn
-    email: erikrtn@gmail.com
+    name: Andrew Hong
+    url: http://ahong080.github.io
+    email: 
 
-avatar: erik.jpg
+avatar: ASH.jpg
 future: true
 permalink: "/:title/"
 
 pages_list:
-    Blog: '/blog'
-    Tech: '/tech'
-    Research: '/research'
-    Talks: '/talks'
+    Publications: '/publications'
 
 markdown: kramdown
 
