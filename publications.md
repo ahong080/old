@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: "Research"
+permalink: /publications/
+title: "Publications"
 ---
 
 I completed my postdoctoral fellowship at the [Center for Systems Biology][csb] at Massachusetts General Hospital, [Computational Cardiovascular Research Group][ccrg] at MIT, and [Machine Learning for Health][ml4h] initiative at the Broad Institute.
