@@ -18,11 +18,15 @@ Hobbies: working out, following the Lakers and Dodgers, reading and spending tim
 Email: andrew(underscore)hong
 (at)urmc(dot)rochester(dot)edu
 
+
 ---
 
-The time is always right to do what is right.
-Martin Luther King Jr.
-
-Black Lives Matter
+<br><br>
+<hr style="border: 1px solid black;" />
+<br>
+<a href="https://en.wikipedia.org/wiki/Racism_in_the_United_States" target="_blank">The time is always right to do what is right</a>.
+<br>Martin Luther King Jr.
+<br><br>
+<b>Black Lives Matter</b>
 
 Forked from erikr/erikr.github.io
