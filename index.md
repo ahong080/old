@@ -12,12 +12,13 @@ MD/PhD student at the University of Rochester
 Research interests: chemical biology, drug discovery, molecular imaging
 
 Previously: BA in chemistry, minor in bioengineering from UC Berkeley; Flavell Lab at UCSF
-
+<hr style="border: 2px solid black;" />
+<br>
 Hobbies: working out, following the Lakers and Dodgers, reading and spending time with friends and family
-
+<br>
 Email: andrew(underscore)hong
 (at)urmc(dot)rochester(dot)edu
-<hr style="border: 1px solid black;" />
+<hr style="border: 2px solid black;" />
 <br>
 <a href="https://en.wikipedia.org/wiki/Racism_in_the_United_States" target="_blank">The time is always right to do what is right</a>.
 <br>Martin Luther King Jr.
