@@ -4,25 +4,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
-I completed my postdoctoral fellowship at the [Center for Systems Biology][csb] at Massachusetts General Hospital, [Computational Cardiovascular Research Group][ccrg] at MIT, and [Machine Learning for Health][ml4h] initiative at the Broad Institute.
-
-My work focused on multimodal data curation, machine learning infrastructure, and clinical outcome prediction using electronic medical record data and complex physiological signals such as ECGs and invasive hemodynamic measurements.
-
-I obtained my PhD in Biomedical Engineering and Statistics at Georgia Tech where I worked on signal processing and machine learning applied to time series data from wearable devices.
-
-Prior to MD/PhD training, I studied Bioengineering at UCLA, after starting in computer science, and minoring in chemical engineering. I developed cellularized fibrin hydrogels for dermal wound healing, nanoparticles for imaging cells, and computational diffusion-reaction models of oxygen transport and cell growth.
-
-My papers are available at [Google Scholar][scholar].
-
-[aa]: https://csb.mgh.harvard.edu/aaron_aguirre
-[cs]: https://www.rle.mit.edu/cb/people/
-[pb]: https://www.broadinstitute.org/bios/puneet-batra
-[gc]: http://gdclifford.info/people/gari
-[sn]: http://nematilab.info/people/shamim/index.html
-[as]: https://sph.emory.edu/faculty/profile/index.php?FID=amit-shah-5975
-[cvrc]: http://cvrc.massgeneral.org  
-[csb]: https://csb.mgh.harvard.edu 
-[ccrg]: https://www.rle.mit.edu/cb   
-[rle]: https://www.rle.mit.edu
-[ml4h]: https://www.broadinstitute.org/ml4h
-[scholar]: https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate
+<ol reversed>
+<li>Wang, S., Korenchan, D.E., Rivera, P.P., Taglang, C., Hayes, T.R., Sriram, R., Bok, R., <b>Hong, A.S.,</b> Wu, Y., Li, H., Wilson, D.M., Kurhanewicz, J., Flavell, R.R. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.201902771" target="_blank">Amino Acid-Derived Sensors for Specific Zn2+ Detection Using Hyperpolarized 13C Magnetic Resonance Spectroscopy</a>. <i>Chem Eur. J.</i> <b>2019,</b> <i>25</i> (51), 11842-11846.</li>
+<br>
+<li>Wang, S., Blaha, C., Santos, R., Huynh, T., Hayes, T.R., Beckford Vera, D.R., Blecha, J.E., <b>Hong, A.S.,</b> Fogarty, M., Hope, T.A., Raleigh, D.R., Wilson, D.M., Evans, M.J., VanBrocklin, H.F., Ozawa, T., Flavell, R.R. <a href="https://pubs.acs.org/doi/full/10.1021/acs.molpharmaceut.9b00464" target="_blank">Synthesis and initial biological evaluation of boron-containing prostate specific membrane antigen ligands for treatment of prostate cancer using boron neutron capture therapy</a>. <i>Mol. Pharm.</i> <b>2019,</b> <i>16</i> (9), 3831-3841.</li>
+<ol>
