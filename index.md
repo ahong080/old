@@ -18,9 +18,6 @@ Hobbies: working out, following the Lakers and Dodgers, reading and spending tim
 Email: andrew(underscore)hong
 (at)urmc(dot)rochester(dot)edu
 
-
----
-
 <br><br>
 <hr style="border: 1px solid black;" />
 <br>
