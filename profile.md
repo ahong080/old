@@ -12,4 +12,5 @@ Previously: BA in chemistry, minor in bioengineering from UC Berkeley; Flavell L
 
 Hobbies: working out, following the Lakers and Dodgers, reading and spending time with friends and family
 
-Email: andrew(underscore)hong(at)urmc(dot)rochester(dot)edu
+Email: andrew_hong
+<br>(at)urmc(dot)rochester(dot)edu
