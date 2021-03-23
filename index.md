@@ -12,4 +12,6 @@ title: "Home"
 <br><br>
 <b>Black Lives Matter</b>
 <br><br>
+<hr style="border: 1px solid black;" />
+<br>
 Forked from erikr/erikr.github.io
