@@ -7,8 +7,9 @@ title: "Home"
    <img align="left" src="assets/ASH.jpg" width="180">
 </div>
 
-Email: andrew_hong(at)
-<br>urmc(dot)rochester(dot)edu
+andrew_hong 
+<br>(at)urmc(dot)
+<br>rochester(dot)edu
 <hr style="border: 1px solid black;" />
 <br>
 <a href="https://en.wikipedia.org/wiki/Racism_in_the_United_States" target="_blank">The time is always right to do what is right</a>.
