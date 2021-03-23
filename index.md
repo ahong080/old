@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-<div style="float:left;margin:0 20px 100px 0">
+<div style="float:left;margin:0 20px 200px 0">
    <img align="left" src="assets/ASH.jpg" width="180">
 </div>
 
