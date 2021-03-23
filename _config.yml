@@ -16,6 +16,7 @@ future: true
 permalink: "/:title/"
 
 pages_list:
+    Profile: '/profile'
     Publications: '/publications'
 
 markdown: kramdown
