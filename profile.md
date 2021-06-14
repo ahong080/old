@@ -4,7 +4,8 @@ permalink: /profile/
 title: "Profile"
 ---
 
-MD/PhD student at the University of Rochester
+MD/PhD student | M2<br>
+University of Rochester
 
 Research interests: chemical biology, drug discovery, molecular imaging
 
