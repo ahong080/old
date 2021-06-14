@@ -3,11 +3,11 @@ layout: page
 title: "Home"
 ---
 
-<div style="float:left;margin:0 20px 200px 0">
+<div style="float:left;margin:0 20px 400px 0">
    <img align="left" src="assets/ASH.jpg" width="180">
 </div>
 
-<font size="+2">Andrew Hong</font>
+<font size="+1">Andrew Hong</font>
 <br>
 <hr style="border: 1px solid black;" />
 <br>
