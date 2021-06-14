@@ -13,5 +13,3 @@ title: "Home"
 <br>
 <a href="https://en.wikipedia.org/wiki/Racism_in_the_United_States" target="_blank">The time is always right to do what is right</a>.
 <br>Martin Luther King Jr.
-<br><br>
-<b>Black Lives Matter</b>
