@@ -11,5 +11,5 @@ title: "Home"
 <br>
 <hr style="border: 1px solid black;" />
 <br>
-<a href="https://en.wikipedia.org/wiki/Racism_in_the_United_States" target="_blank">The time is always right to do what is right</a>.
-<br>Martin Luther King Jr.
+<a href="https://en.wikipedia.org/wiki/Racism_in_the_United_States" target="_blank">The idea that some lives matter less is the root of all that is wrong with the world</a>.
+<br>Paul Farmer
